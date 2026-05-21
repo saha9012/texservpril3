@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+passlib[bcrypt]
+pyjwt
+python-multipart
+slowapi
+itsdangerous
+email-validator
